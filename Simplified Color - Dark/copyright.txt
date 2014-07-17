@@ -1,0 +1,3 @@
+This style is a modified and stripped down version of 
+the "Simplified" theme developed by "Cowboy" Ben Alman
+(http://benalman.com/), as well as a derivative of the original “Simplified Dark” default theme found in Textual. Copyright © 2010, 2011, 2012.
