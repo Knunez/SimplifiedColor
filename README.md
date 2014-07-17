@@ -11,3 +11,4 @@ Here's a look at both the dark and light themes - you get both at once upon down
 
   ![Simplified Color - Dark](http://i.imgur.com/ofKkGMz.png)
   
+  ![Simplified Color - Light](http://i.imgur.com/OvRHsSJ.png)
